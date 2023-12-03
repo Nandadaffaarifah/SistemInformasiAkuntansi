@@ -19,3 +19,4 @@ Akuntansi
 ## DESIGNER phpMyAdmin
 ![image](https://github.com/Nandadaffaarifah/SistemInformasiAkuntansi/blob/main/Print%20Screen/WhatsApp%20Image%202023-11-20%20at%2011.35.39%20(1).jpeg)
 ## FLOWCHART Sistem-Pencatatan-Akuntansi
+![image](https://github.com/Nandadaffaarifah/SistemInformasiAkuntansi/blob/main/Print%20Screen/DIAGRAM%20phpMyAdmin.jpg)
