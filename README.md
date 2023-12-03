@@ -1,2 +1,2 @@
-# SistemInformasiAkuntansi
+# Sistem Informasi Akuntansi
 Akuntansi
