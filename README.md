@@ -1,2 +1,2 @@
-# Sistem Informasi Akuntansi
+# SistemInformasiAkuntansi-Pencatatan-Akuntansi-PHP
 Akuntansi
